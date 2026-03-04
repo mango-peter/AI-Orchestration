@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Orchestration": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
