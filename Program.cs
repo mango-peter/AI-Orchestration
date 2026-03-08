@@ -6,7 +6,7 @@ Console.WriteLine(args.Length);
 
 
 var counter = 0;
-var max = 25;// args.Length is not 0 ? Convert.ToInt32(args[0]) : -1;
+var max = 29;// args.Length is not 0 ? Convert.ToInt32(args[0]) : -1;
 
 while (max is -1 || counter < max)
 {
